@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Escritores del Siglo XVIII</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Bienvenidos</h2>
+<p>Descubre la vida y obra de los escritores más influyentes del siglo XVIII.</p>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tabla de Escritores</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Tabla de Escritores</h2>
+<table>
+<tr>
+<th>Nombre</th>
+<th>Nacionalidad</th>
+<th>Obra más famosa</th>
+</tr>
+<tr>
+<td>Voltaire</td>
+<td>Francés</td>
+<td>Candide</td>
+</tr>
+<tr>
+<td>Jonathan Swift</td>
+<td>Irlandés</td>
+<td>Los viajes de Gulliver</td>
+</tr>
+<tr>
+<td>Denis Diderot</td>
+<td>Francés</td>
+<td>La Enciclopedia</td>
+</tr>
+</table>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Listado de Obras</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Listado de Obras</h2>
+<ul>
+<li>Candide - Voltaire</li>
+<li>Los viajes de Gulliver - Jonathan Swift</li>
+<li>La Enciclopedia - Denis Diderot</li>
+<li>Emilio - Jean-Jacques Rousseau</li>
+<li>Fausto - Johann Wolfgang von Goethe</li>
+</ul>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biografías</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Biografías</h2>
+<ul>
+<li>
+<h3>Voltaire</h3>
+<p>Voltaire, cuyo nombre real era François-Marie Arouet, fue un escritor, historiador y filósofo francés.</p>
+</li>
+<li>
+<h3>Jonathan Swift</h3>
+<p>Jonathan Swift fue un escritor y clérigo anglo-irlandés, conocido por su obra satírica "Los viajes de Gulliver".</p>
+</li>
+<li>
+<h3>Denis Diderot</h3>
+<p>Denis Diderot fue un filósofo y escritor francés, conocido por ser cofundador y editor principal de la "Enciclopedia".</p>
+</li>
+</ul>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Impacto en la Literatura</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Impacto en la Literatura</h2>
+<p>Los escritores del siglo XVIII tuvieron un impacto significativo en la literatura, influyendo en movimientos posteriores como el
+Romanticismo y el Realismo.</p>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formularios de Contacto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Formulario de Contacto</h2>
+<form>
+<label for="nombre">Nombre:</label>
+<input type="text" id="nombre" name="nombre" required>
+<br>
+<label for="email">Correo electrónico:</label>
+<input type="email" id="email" name="email" required>
+<br>
+<label for="mensaje">Mensaje:</label>
+<textarea id="mensaje" name="mensaje" required></textarea>
+<br>
+<input type="submit" value="Enviar">
+</form>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Galería de Imágenes</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="08.html">Conclusiones</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Galería de Imágenes</h2>
+<img src="voltaire.jpg" alt="Voltaire">
+<img src="swift.jpg" alt="Jonathan Swift">
+<img src="diderot.jpg" alt="Denis Diderot">
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conclusiones</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Escritores del Siglo XVIII</h1>
+<nav>
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="02.html">Tabla de Escritores</a></li>
+<li><a href="03.html">Listado de Obras</a></li>
+<li><a href="04.html">Biografías</a></li>
+<li><a href="05.html">Impacto en la Literatura</a></li>
+<li><a href="06.html">Formularios de Contacto</a></li>
+<li><a href="07.html">Galería de Imágenes</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h2>Conclusiones</h2>
+<p>Los escritores del siglo XVIII han dejado un legado perdurable en la literatura y el pensamiento moderno, marcando el camino
+para futuras generaciones de autores y pensadores.</p>
+</main>
+<footer>
+<p>&copy; 2024 Escritores del Siglo XVIII</p>
+</footer>
+</body>
+</html>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #333;
+color: white;
+padding: 10px 0;
+text-align: center;
+}
+header nav ul {
+list-style: none;
+padding: 0;
+}
+header nav ul li {
+display: inline;
+margin: 0 10px;
+}
+header nav ul li a {
+color: white;
+text-decoration: none;
+}
+main {
+padding: 20px;
+}
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px 0;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 20px;
+}
+table, th, td {
+border: 1px solid black;
+}
+th, td {
+padding: 10px;
+text-align: left;
+}
+form {
+margin-top: 20px;
+}
+form label {
+display: block;
+margin-bottom: 5px;
+}
+form input, form textarea {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+}
+form input[type="submit"] {
+width: auto;
+background-color: #333;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+form input[type="submit"]:hover {
+background-color: #555;
+}
+img {
+width: 100%;
+height: auto;
+margin-bottom: 20px;
+}
